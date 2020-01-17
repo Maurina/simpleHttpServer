@@ -1,7 +1,6 @@
 {
   "name": "simplehttpserver_maurinadavis",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -14,5 +13,6 @@
     "start": "nodemon app.js"
   },
   "author": "Maurina Davis",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
